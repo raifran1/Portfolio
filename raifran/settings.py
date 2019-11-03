@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS = ['raifran.herokuapp.com/','raifranlucas.tk','www.raifranlucas.tk']
+ALLOWED_HOSTS = ['raifran.herokuapp.com','raifranlucas.tk','www.raifranlucas.tk']
 
 
 # Application definition
