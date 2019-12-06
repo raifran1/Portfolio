@@ -17,6 +17,11 @@ Pode ser acessado através do site https://rairfanlucas.tk/
   
 # Dependências
   - Python 3.7.5
-  - Django 2.2.3
-  - Django Widget Tweaks
+  - Django==2.2.6
+  - django-widget-tweaks==1.4.5
+  - python-decouple==3.1
+  - dj-static==0.0.6
+  - dj-database-url==0.5.0
+ 
+# Hospedado no Heroku 
   
