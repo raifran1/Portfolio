@@ -14,3 +14,9 @@ Pode ser acessado através do site https://rairfanlucas.tk/
   - O Projeto foi iniciado a fim de ser algo pessoal aonde a pessoa teria acesso ao código e poderia editar e utilizar para ela mesma.
   - O Projeto tende a ser melhorado vizando ter um BackEnd e se tornar uma página de portfólios pessoais, aonde cada pessoa
   terá uma url de divulgação da mesma.
+  
+# Dependências
+  - Python 3.7.5
+  - Django 2.2.3
+  - Django Widget Tweaks
+  
