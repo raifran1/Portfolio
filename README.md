@@ -23,6 +23,7 @@ Pode ser acessado através do site https://rairfanlucas.tk/
   - dj-static==0.0.6
   - dj-database-url==0.5.0
  
-- Hospedado no Heroku 
-- Utilizando Cloudflare para Certificação
+# Outras Informações
+  - Hospedado no Heroku 
+  - Utilizando Cloudflare para Certificação
   
