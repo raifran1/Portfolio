@@ -20,5 +20,4 @@ from curriculo import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
-    path('teste/plugins/', views.page_secondary)
 ]
