@@ -4,7 +4,7 @@ Portfólio / Currículo - Raifran lucas
  - Interface FronEnd utilizando :
     - Bootstrap 4.0
 
-Pode ser acessado através do site https://raifranlucas.tk/
+Pode ser acessado através do site https://raifranlucas.dev/
 
 # Observação
   - Conteúdo foi escrito diretamente na página HTML sem utilização de um BackEnd exclusivo para o cadastro
